@@ -4,7 +4,7 @@
  */
  {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	"name": "v1-aloha-clean-nwi-e5b6a86f-f403-4c21-a7bc-ebbf1ed2b590",
+	"name": "nicoles-aloha-touch-cleaning",
 	"main": "worker/index.ts",
 	"compatibility_date": "2025-04-24",
 	"assets": {
