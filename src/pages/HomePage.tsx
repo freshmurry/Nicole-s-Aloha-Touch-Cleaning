@@ -215,7 +215,7 @@ const ServiceAreaSection = () => (
           <p className="mt-4 text-gray-600">If you live in these towns or nearby, you're covered!</p>
         </div>
         <div className="overflow-hidden rounded-lg shadow-xl">
-          <img src="assets/aloha-cleaning-map.jpg" alt="Map of service area including St. John, Munster, Highland, Schererville, and Crown Point in Indiana" className="h-full w-full object-cover" />
+          <img src="../assets/aloha-cleaning-map.jpg" alt="Map of service area including St. John, Munster, Highland, Schererville, and Crown Point in Indiana" className="h-full w-full object-cover" />
         </div>
       </div>
     </div>
