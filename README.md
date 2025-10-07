@@ -2,7 +2,7 @@
 
 A visually stunning, SEO-optimized landing page for a hyper-local cleaning service in Northwest Indiana, designed to capture leads and build local trust.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/freshmurry/Nicole-s-Aloha-Touch-Cleaning)
 
 Aloha Clean NWI is a hyper-local, visually stunning, and SEO-optimized landing page for a cleaning service in Northwest Indiana. The design is based on an illustrative and whimsical style, using a teal and white color palette derived from the client's branding. The primary goal is to capture leads through a prominent hero section form. The application features sections detailing services (Standard Cleaning, Deep Cleaning, Add-Ons), trust-building elements (testimonials, guarantees), a service area map, and a comprehensive footer. It also includes dedicated, content-rich pages for local SEO targeting, with all leads securely stored using a Cloudflare Durable Object backend.
 
@@ -82,7 +82,7 @@ This project is designed for seamless deployment to Cloudflare Pages.
 
 You can deploy this application to your Cloudflare account with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/freshmurry/Nicole-s-Aloha-Touch-Cleaning)
 
 ### Manual Deployment
 
