@@ -215,7 +215,7 @@ const ServiceAreaSection = () => (
           <p className="mt-4 text-gray-600">If you live in these towns or nearby, you're covered!</p>
         </div>
         <div className="overflow-hidden rounded-lg shadow-xl">
-          <img src="https://i.imgur.com/2vG2E0s.png" alt="Map of service area including St. John, Munster, Highland, Schererville, and Crown Point in Indiana" className="h-full w-full object-cover" />
+          <img src="https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/550503870_122105054949008127_6792248557497006196_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=104&ccb=1-7&_nc_sid=aa7b47&_nc_ohc=A5_VxyNUqYYQ7kNvwFu1y4c&_nc_oc=Adldm2cMT4cdRcFN4-1EEswsgQZTRDk2lCb3V4rNjGmCSldeZvlZQX89t18-2cL664mFOLvdCn8F3_uzWznjTWgT&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&_nc_gid=zQjg9DdY0SmRc-RO7WvqjQ&oh=00_AfdYwAGArxivE0l7gwkFFVzZfELDD1k-Rei1CJTvcM9cHA&oe=68EB15B1" alt="Map of service area including St. John, Munster, Highland, Schererville, and Crown Point in Indiana" className="h-full w-full object-cover" />
         </div>
       </div>
     </div>
